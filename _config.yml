@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Mamaku.github.io
+title: Mamaku Messenger
+email: Steve@commit.net.nz
+author: Mamaku
+description: mamaku messenger site
+paginate: 3
+google_analytics: 
